@@ -11,6 +11,7 @@ import com.bjsxt.pojo.Student;
 /**
  * 传统方式:
  * 		只能静态的创建java对象
+ *
  * 反射的特点:
  * 		实现了java对象的动态创建.
  * 反射的缺点:
